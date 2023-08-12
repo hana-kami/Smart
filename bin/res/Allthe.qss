@@ -1,0 +1,252 @@
+/*背景*/
+
+QWidget#background
+{
+    border-image:url(:/res/Back.jpg);
+    border-radius:10px;
+}
+
+/*标题LOGO文件*/
+QLabel#label_tatel_logo
+{
+        border-image:url(:/res/icon.jpg);
+}
+/*背景2*/
+QWidget#widgetEN
+{
+    background-color:rbg(218,112,214);
+    border-radius:10px;
+}
+QLabel
+{
+    color: rgb(204,255,255);
+    font-family:"微软雅黑";
+}
+/*六天气体状态*/
+QWidget#widget1
+{
+    background-color:rbg(144,144,238);
+    border-radius:10px;
+}
+QWidget#widget2
+{
+    background-color:rgb(255,255,0);
+    border-radius:10px;
+}
+QWidget#widget3
+{
+    background-color:rgb(255,105,180);
+    border-radius:10px;
+}
+QWidget#widget4
+{
+    background-color:rgb(255,20,147);
+    border-radius:10px;
+}
+QWidget#widget5
+{
+    background-color:rgb(218,122,21);
+    border-radius:10px;
+}
+QWidget#widget6
+{
+    background-color:rgb(199,21,133);
+    border-radius:10px;
+}
+/*搜索栏*/
+QLineEdit#line_Search
+{
+    border-radius:10px;
+    font-size: 16;
+    font-family: "微软雅黑";
+}
+
+/*搜索按钮*/
+QPushButton#pushButton_search
+{
+        border-image:url(:/res/search.png);
+}
+QLabel#flfx
+{
+    border-image:url(:/res/wind.png);
+}
+
+QLabel#label_Today
+{
+    border-image:url(:/res/type/DongYu.png);
+}
+
+
+QLabel#wendu
+{
+    border-image:url(:/res/humidity.png);
+}
+
+QLabel#kongqi
+{
+    border-image:url(:/res/type/Mai.png);
+}
+
+QLabel#hj
+{
+    border-image:url(:/res/pm25.png);
+}
+QLabel#label_date
+{
+    color: rgb(204,255,255);
+    font-size:35px;
+    font-weight: bold;
+}
+QLabel#label_ganmao
+{
+    color: rgb(204,255,255);
+    font-size:20px;
+    font-style:oblique;
+}
+QLabel#labelCity
+{
+    font-size:20px;
+}
+QLabel#todayW
+{
+    font-size:20px;
+}
+
+QLabel#toDaywen
+{
+    font-size:20px;
+}
+QLabel#wendu_Today
+{
+    color: rgb(204,255,255);
+    font-size:65px;
+}
+/*小背景颜色*/
+QWidget#widget_weather1
+{
+    background-color:rgb(0,76,153);
+    border-radius:10px;
+}
+QWidget#widget_weather2
+{
+    background-color:rgb(0,76,153);
+    border-radius:10px;
+}
+QWidget#widget_weather3
+{
+    background-color:rgb(0,76,153);
+    border-radius:10px;
+}
+QWidget#widget_weather4
+{
+    background-color:rgb(0,76,153);
+    border-radius:10px;
+}
+QWidget#widget_weather5
+{
+    background-color:rgb(0,76,153);
+    border-radius:10px;
+}
+QWidget#widget_weather6
+{
+    background-color:rgb(0,76,153);
+    border-radius:10px;
+}
+QWidget#widget_flfx1
+{
+    background-color:rgb(0,76,153);
+    border-radius:10px;
+}
+QWidget#widget_flfx2
+{
+    background-color:rgb(0,76,153);
+    border-radius:10px;
+}
+QWidget#widget_flfx3
+{
+    background-color:rgb(0,76,153);
+    border-radius:10px;
+}
+QWidget#widget_flfx4
+{
+    background-color:rgb(0,76,153);
+    border-radius:10px;
+}
+QWidget#widget_flfx5
+{
+    background-color:rgb(0,76,153);
+    border-radius:10px;
+}
+QWidget#widget_flfx6
+{
+    background-color:rgb(0,76,153);
+    border-radius:10px;
+}
+QWidget#widget_date1
+{
+    background-color:rgb(0,76,153);
+    border-radius:10px;
+}
+QWidget#widget_date2
+{
+    background-color:rgb(0,76,153);
+    border-radius:10px;
+}
+
+QWidget#widget_date3
+{
+    background-color:rgb(0,76,153);
+    border-radius:10px;
+}
+
+QWidget#widget_date4
+{
+    background-color:rgb(0,76,153);
+    border-radius:10px;
+}
+
+QWidget#widget_date5
+{
+    background-color:rgb(0,76,153);
+    border-radius:10px;
+}
+
+QWidget#widget_date6
+{
+    background-color:rgb(0,76,153);
+    border-radius:10px;
+}
+QLabel#labelHigh
+{
+    background-color:rgb(0,76,153);
+}
+QLabel#labelLow
+{
+    background-color:rgb(0,76,153);
+}
+/*右窗口标签图标*/
+QLabel#label_weather1
+{
+    border-image:url(:/res/type/DaBaoYu.png);
+}
+QLabel#label_weather2
+{
+    border-image:url(:/res/type/DaBaoYu.png);
+}
+QLabel#label_weather3
+{
+    border-image:url(:/res/type/DaBaoYu.png);
+}
+QLabel#label_weather4
+{
+    border-image:url(:/res/type/DaBaoYu.png);
+}
+QLabel#label_weather5
+{
+    border-image:url(:/res/type/DaBaoYu.png);
+}
+QLabel#label_weather6
+{
+    border-image:url(:/res/type/DaBaoYu.png);
+}
+
